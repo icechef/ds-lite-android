@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 单色层（Android 13+ 主题图标）：只留鱼身 + 叉尾 + 背鳍的剪影，系统自己上色。
+     眼睛这种镂空在这里画不出来（单色层只有一个色），所以省掉。 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,55.5c0,-6.6 6.6,-11.6 17,-12c9.4,-0.4 16.4,1.4 22,5.6l0,12.8c-5.6,4.2 -12.6,6 -22,5.6c-10.4,-0.4 -17,-5.4 -17,-12z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,49.2l19,-10.7l-6.2,16.6l6.2,16.6l-19,-10.7z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45.5,43.8l3.4,-1.4l-2.6,9.6l-3.4,1.2z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52.5,41.6l3.4,-1.4l-3.6,12.6l-3.4,1.2z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M59.5,40.4l3.4,-1.4l-4.4,15l-3.4,1.2z" />
+</vector>

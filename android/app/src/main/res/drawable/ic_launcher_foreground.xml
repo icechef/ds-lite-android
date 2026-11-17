@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DS Lite 图标前景：趴着的鱼（几何自绘，不是官方标识）
+     鱼身朝左、叉尾在右、背上三根蓝色斜鳍（呼应用量柱状图）。
+     viewport 108 与自适应图标一致，图形落在 21~87 的安全区内。 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 鱼身 -->
+    <path
+        android:fillColor="#F2F5FA"
+        android:pathData="M25,55.5c0,-6.6 6.6,-11.6 17,-12c9.4,-0.4 16.4,1.4 22,5.6l0,12.8c-5.6,4.2 -12.6,6 -22,5.6c-10.4,-0.4 -17,-5.4 -17,-12z" />
+    <!-- 叉形尾鳍 -->
+    <path
+        android:fillColor="#F2F5FA"
+        android:pathData="M63,49.2l19,-10.7l-6.2,16.6l6.2,16.6l-19,-10.7z" />
+    <!-- 背鳍：三根斜柱（用量） -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M45.5,43.8l3.4,-1.4l-2.6,9.6l-3.4,1.2z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M52.5,41.6l3.4,-1.4l-3.6,12.6l-3.4,1.2z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M59.5,40.4l3.4,-1.4l-4.4,15l-3.4,1.2z" />
+    <!-- 眼睛 -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M33.5,52m-2.3,0a2.3,2.3 0,1 1,4.6 0a2.3,2.3 0,1 1,-4.6 0" />
+</vector>
