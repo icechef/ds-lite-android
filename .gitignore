@@ -1,0 +1,20 @@
+# 构建产物 / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/captures/
+*.iml
+*.apk
+*.aab
+*.jks
+keystore.properties
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+__pycache__/
+
+# 项目内部记忆（作者本地保留，不进公开仓库）
+.hermes/

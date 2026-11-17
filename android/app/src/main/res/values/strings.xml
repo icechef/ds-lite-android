@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DS Lite</string>
+    <string name="pick_file">选择文件</string>
+    <string name="back_again_to_exit">再按一次返回退出</string>
+    <string name="saved_to_downloads">已保存到「下载」：%1$s</string>
+    <string name="save_failed">保存失败：%1$s</string>
+    <string name="copied">已复制</string>
+    <string name="mic_denied">需要麦克风权限才能语音输入</string>
+
+    <!-- 附件面板 -->
+    <string name="sheet_camera">拍照</string>
+    <string name="sheet_gallery">相册</string>
+    <string name="sheet_file">文件</string>
+    <string name="sheet_recent">最近照片</string>
+    <string name="sheet_recent_empty">相册里还没有照片</string>
+    <string name="sheet_need_permission">需要「照片和视频」权限才能显示最近照片</string>
+    <string name="sheet_selected">已选 %1$d 张</string>
+    <string name="sheet_send">发送</string>
+    <string name="sheet_send_n">发送 %1$d</string>
+    <string name="sheet_max">最多选 %1$d 张</string>
+    <string name="camera_failed">打不开相机</string>
+    <string name="camera_need_storage">需要存储权限才能拍照</string>
+    <string name="file_too_big">文件超过 32 MB，未添加</string>
+
+    <!-- 看图 / 裁剪 -->
+    <string name="viewer_close">关闭</string>
+    <string name="viewer_crop">裁剪</string>
+    <string name="viewer_restore">还原</string>
+    <string name="viewer_rotate">旋转</string>
+    <string name="viewer_rotate_left">向左旋转</string>
+    <string name="viewer_cancel">取消</string>
+    <string name="viewer_done">完成</string>
+    <string name="viewer_drag_hint">拖动四角选择范围</string>
+    <string name="viewer_crop_too_small">选区太小</string>
+    <string name="viewer_crop_failed">裁剪失败</string>
+    <string name="preview_miss">找不到原图，请重新选择</string>
+    <string name="preview_image_only">只有图片可以放大 / 裁剪</string>
+</resources>
